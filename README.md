@@ -1,5 +1,5 @@
 
-# Your Social Media Platform
+# Our Social Media Platform
 
 ## Description
 
